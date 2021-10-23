@@ -6,7 +6,7 @@
  ## Features
 - 🔥 Firebase 9 & Firestore CRUD
 - 📂 Image file uploads
-- 💞 Realtime hearts
+- 💞 Realtime likes & comments
 - 🚀 Security & Deployment
 
 
